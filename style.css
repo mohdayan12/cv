@@ -1,0 +1,23 @@
+ *{ 
+    background-color:#073b4c;
+}
+ h3{
+    color:#ef476f;
+    background-color: #ffd166;
+ }
+ .list{
+    color:#06d6a0;   
+ }
+ p{
+    color:#06d6a0;
+ }
+ 
+ 
+ h1{
+    color:#118ab2;
+    text-align: center;
+    background-color:#ffd166;
+    border:2px solid black;
+    border-radius:10px;
+    margin:0;
+}
